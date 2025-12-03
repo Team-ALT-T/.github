@@ -188,28 +188,28 @@
         <th>GitHub</th>
         <td width="100" align="center">
             <a href="https://github.com/AlgeMoya">
-                <img src="http://img.shields.io/badge/ehdgusdl-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/AlgeMoya-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/ksm0520">
-                <img src="http://img.shields.io/badge/septeratz-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/ksm0520-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/Jimin15">
-                <img src="http://img.shields.io/badge/jiyeon0323-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/Jimin15-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/chlwoomin">
-                <img src="http://img.shields.io/badge/hippocampez-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/chlwoomin-green?style=social&logo=github"/>
             </a>
         </td>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/penloo">
-                <img src="http://img.shields.io/badge/chlwoomin-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/penloo-green?style=social&logo=github"/>
             </a>
         </td>
     </tr>
