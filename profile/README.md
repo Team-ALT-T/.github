@@ -26,9 +26,6 @@
  <img width="645" height="182" alt="image" src="https://github.com/user-attachments/assets/0b414026-bff9-4a10-a9de-2a03196b18d1" />
 </p>
 
-## 🛠 System Architecture
-
-
 
 ## 🔑 ERD
 <img width="1386" height="845" alt="image" src="https://github.com/user-attachments/assets/828c2242-c91d-47cf-8b4c-e1e5f4feea66" />
@@ -41,85 +38,63 @@
   
  <!-- tech-stack.html -->
  <table class="tech-table">
-     <tr>
-       <th>분야</th>
-       <th>사용 기술</th>
-     </tr>
-     <tr>
-       <td class="field">Frontend</td>
-       <td>
-         <div class="badges">
-           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"  alt="React">
-           <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF" alt="TypeScript">
-           <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"       alt="Vite">
-           <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=Vercel&logoColor=%23FFFFFF" alt="Vercel">
-         </div>
-       </td>
-     </tr>
-     <tr>
-       <td class="field">Backend</td>
-       <td>
-         <div class="badges">
-           <!-- 1행 -->
-           <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-           <img src="https://img.shields.io/badge/Uvicorn-008080?style=for-the-badge" alt="Uvicorn">
-           <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=FFFFFF" alt="RabbitMQ">
-           <img src="https://img.shields.io/badge/Celery-%2337814A?style=for-the-badge&logo=celery&logoColor=%23FFFFFF" alt="Celery">
-           <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-           <img src="https://img.shields.io/badge/LangChain-%231C3C3C?style=for-the-badge&logo=langchain&logoColor=%23FFFFFF" alt="LangChain">
-           <!-- 2행 -->
-           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-           <img src="https://img.shields.io/badge/Gemini%20API-%238E75B2?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF" alt="Gemini API">
-           <img src="https://img.shields.io/badge/Firebase%20Cloud%20Firestore-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=%23FFFFFF" alt="Firestore">
-           <img src="https://img.shields.io/badge/Google%20Cloud%20Storage-%23AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=%23FFFFFF" alt="GCS">
-         </div>
-       </td>
-     </tr>
-     <tr>
-       <td class="field">Monitoring & Logging</td>
-       <td>
-         <div class="badges">
-           <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-           <img src="https://img.shields.io/badge/cAdvisor-4479A1?style=for-the-badge" alt="cAdvisor">
-           <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-           <img src="https://img.shields.io/badge/Grafana%20Loki-%23E86300?style=for-the-badge&logoColor=%23FFFFFF" alt="Grafana Loki">
-           <img src="https://img.shields.io/badge/Promtail-%23D65B00?style=for-the-badge&logoColor=%23FFFFFF" alt="Promtail">
-         </div>
-       </td>
-     </tr>
-     <tr>
-       <td class="field">DevOps</td>
-       <td>
-         <div class="badges">
-           <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-           <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
-           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-           <img src="https://img.shields.io/badge/Github%20Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=%23FFFFFF" alt="GitHub Actions">
-         </div>
-       </td>
-     </tr>
-     <tr>
-       <td class="field">etc</td>
-       <td>
-         <div class="badges">
-           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-           <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-           <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-         </div>
-       </td>
-     </tr>
- </table>
+  <tr>
+    <th>분야</th>
+    <th>사용 기술</th>
+  </tr>
+  <tr>
+    <td class="field">Frontend</td>
+    <td>
+      <div class="badges">
+        <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td class="field">Backend</td>
+    <td>
+      <div class="badges">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+        <img src="https://img.shields.io/badge/H2_Database-003545?style=for-the-badge&logoColor=white" alt="H2">
+        <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
+        <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+        <img src="https://img.shields.io/badge/JaCoCo-822874?style=for-the-badge&logo=jacoco&logoColor=white" alt="JaCoCo">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td class="field">DevOps</td>
+    <td>
+      <div class="badges">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td class="field">etc</td>
+    <td>
+      <div class="badges">
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 
-
-
-
 ## 👨‍👩‍👧‍👦 Team Members
-
 
 
 <table width="1000">
