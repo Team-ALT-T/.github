@@ -129,92 +129,86 @@
     <tr>
         <th>Pictures</th>
              <td width="100" align="center">
-            <a href="https://github.com/ehdgusdl">
-                <img src="https://github.com/user-attachments/assets/426c1aef-04c4-4ced-a6ed-1a9314e07003" />
+            <a href="https://github.com/AlgeMoya">
+                <img width="392" height="392" alt="image" src="https://github.com/user-attachments/assets/ee3241a2-5de4-42e3-a20e-aa036a3c7251" />
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/septeratz">
-                <img src="https://github.com/user-attachments/assets/a3ce66f2-e2b7-44e3-8482-287f75cce56b" />
+            <a href="https://github.com/ksm0520">
+                <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/645d8b43-2386-49bd-8568-cf92794d886d" />
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/jiyeon0323">
-                <img src="https://github.com/user-attachments/assets/32e4db42-584f-4283-b2fd-dc2b7f3ad3d6"/>
-            </a>
-        </td>
-        <td width="100" align="center">
-            <a href="https://github.com/hippocampez">
-                <img src="https://github.com/user-attachments/assets/a60cdba3-b6a8-4f60-a94d-109dfef3f486"/>
+            <a href="https://github.com/Jimin15">
+                <img width="447" height="512" alt="image" src="https://github.com/user-attachments/assets/92321095-6b74-4ef6-8d0c-6ee1a2ef4f82" />
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/chlwoomin">
-                <img src="https://github.com/user-attachments/assets/3a88f778-a45a-4ad4-8422-801ab7d89bbc" />
+                <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/160e3ce9-17cd-4593-98b8-1ab4a2098953" />
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/penloo">
+             <img width="455" height="455" alt="image" src="https://github.com/user-attachments/assets/536968f5-5f5f-406c-b53e-6d4528a77b84" />
             </a>
         </td>
         </td>
     </tr>
     <tr>
         <th>Name</th>
-        <td width="100" align="center">김동현</td>
-        <td width="100" align="center">이명진</td>
-        <td width="100" align="center">김지연</td>
-        <td width="100" align="center">이유민</td>
+        <td width="100" align="center">강석규</td>
+        <td width="100" align="center">김승민</td>
+        <td width="100" align="center">김지민</td>
         <td width="100" align="center">최우민</td>
+        <td width="100" align="center">하재민</td>
     </tr>
     <tr>
         <th>Position</th>
         <td width="150" align="center">
-            Backend<br>
             Frontend<br>
-            DevOps<br>
             Leader<br>
         </td>
         <td width="150" align="center">
-            Backend<br>
             Frontend<br>
             DevOps<br>
         </td>
         <td width="150" align="center">
             Backend<br>
-            Frontend<br>
         </td>
         <td width="150" align="center">
             Backend<br>
-            Frontend<br>
-        </td>
-        <td width="150" align="center">
-            Backend<br>
-            Frontend<br>
             DevOps<br>
+        </td>
+        <td width="150" align="center">
+            Frontend<br>
         </td>
     </tr>
     <tr>
         <th>GitHub</th>
         <td width="100" align="center">
-            <a href="https://github.com/ehdgusdl">
+            <a href="https://github.com/AlgeMoya">
                 <img src="http://img.shields.io/badge/ehdgusdl-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/septeratz">
+            <a href="https://github.com/ksm0520">
                 <img src="http://img.shields.io/badge/septeratz-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/jiyeon0323">
+            <a href="https://github.com/Jimin15">
                 <img src="http://img.shields.io/badge/jiyeon0323-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/hippocampez">
+            <a href="https://github.com/chlwoomin">
                 <img src="http://img.shields.io/badge/hippocampez-green?style=social&logo=github"/>
             </a>
         </td>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/chlwoomin">
+            <a href="https://github.com/penloo">
                 <img src="http://img.shields.io/badge/chlwoomin-green?style=social&logo=github"/>
             </a>
         </td>
