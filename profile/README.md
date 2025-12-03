@@ -16,7 +16,7 @@
 * [System Architecture](#-system-architecture)
 * [ERD](#-erd)
 * [Tech Stack](#-tech-stack)
-* [Team Members][(#-team-members)](https://github.com/Team-ALT-T/.github/blob/main/profile/README.md#%E2%80%8D%E2%80%8D%E2%80%8D-team-members)
+* [Team Members](#-team-members)
 
 
 ## 📗 API
