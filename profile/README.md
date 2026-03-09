@@ -41,87 +41,73 @@
 <br>
 
 # 🖥️ Demo
-### Innit Animation
-> AILIBI에 접속하면 가장 먼저 보이는 화면입니다.
+### Intro / Landing
+> Truvel 서비스 소개와 핵심 기능을 확인할 수 있는 첫 화면입니다.<br>
+> 로그인 전 사용자에게 서비스 목적과 사용 흐름을 직관적으로 안내합니다.
 <br>
 <img align="center" width="1000" alt="Onboarding" src="">
 <br><br>
 
-### Login/Register
-> E-mail 기반 로그인 및 회원가입으로 손쉽게 로그인 할 수 있습니다.
+### Login / Register / Email Verify
+> E-mail 기반 회원가입, 로그인, 인증 코드 확인 과정을 통해 계정을 안전하게 생성합니다.<br>
+> 인증 완료 후 자동으로 서비스 이용 가능한 상태로 전환됩니다.
 <br>
 <img align="center" width="1000" alt="Login & Sign up" src="">
 <br><br>
 
-### Main
-> 성공적인 로그인 이후 게임 플레이를 위한 메인 페이지로 이동합니다.
+### Home Dashboard
+> 로그인 후 진입하는 메인 대시보드입니다.<br>
+> 내 여행 목록, 추천 여행지, 경로 최적화 기능으로 빠르게 이동할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="Login & Sign up" src="">
 <br><br>
 
-### Make-Scenario
-> 사용자가 탐정 스토리의 주요 배경과 사건을 설정하는 페이지입니다.<br>
-> 사건의 종류, 시간, 장소를 선택할 수 있습니다.
+### My Trips (목록/생성)
+> 사용자가 생성한 여행 계획을 카드 형태로 확인할 수 있습니다.<br>
+> 새 여행 생성, 인기 여행지 기반 계획 시작 등 여행 준비의 시작점 역할을 합니다.
 <br>
 <img align="center" width="1000" alt="Login & Sign up" src="">
 <br><br>
 
-### Loading
-> 사용자 입력을 기반으로 AI의 시나리오 생성을 기다리는 페이지입니다.<br>
-> 평균적으로 약 1분 내외의 시간이 소요되며, 기다림을 달래 줄 2개의 미니게임(슈팅 게임, 스도쿠)이 준비되어 있습니다.
+### Map 기반 여행지 검색/선택
+> 지도에서 장소를 검색하고 후보지를 비교해 선택할 수 있습니다.<br>
+> 선택된 장소는 이후 경로 최적화와 일정 생성 단계로 연결됩니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 <br><br>
 
-### Initial-Statement
-> 용의자들의 초기 진술을 확인할 수 있는 페이지입니다.
+### 경로 최적화 (Route Optimize)
+> 선택한 장소들을 기준으로 이동 동선을 최적화해 추천 경로를 생성합니다.<br>
+> 결과 페이지에서 경로 순서와 지도 시각화를 함께 확인할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 <br><br>
 
-### Scenario & Evidence
-> 생성된 시나리오와 증거를 탐색할 수 있는 페이지 입니다.<br>
-> 추리 노트를 사용하여, 사용자만의 추리 내용을 작성할 수 있습니다.
+### 일정 관리 (Schedule)
+> 최적화된 경로를 일자별 일정으로 정리하고 수정할 수 있습니다.<br>
+> 여행 중 실제 방문 순서를 고려한 계획 관리가 가능합니다.
 <br>
 <img align="center" width="1000" alt="" src=""><br><br>
 <img align="center" width="1000" alt="" src="">
 <br><br>
   
-### Suspect
-> 용의자 목록을 확인할 수 있는 페이지입니다.
+### 여행 상세 (My Trip Detail)
+> 여행별 상세 정보를 확인하고 일자별 동선을 한눈에 검토할 수 있습니다.<br>
+> 일정 편집 및 여행 계획 품질 점검에 최적화된 화면입니다.  
 <br>
 <img align="center" width="1000" alt="" src="">
 <br><br>
 
-### Interrogation
-> AI와 Websocket을 기반으로 용의자를 심문하는 페이지입니다.<br>
-> STT와 TTS로 보다 몰입도 높은 플레이를 진행할 수 있습니다.
+### 일행 초대 (Invite)
+> 여행 계획에 일행을 초대해 함께 일정을 구성할 수 있습니다.<br>
+> 협업 기반 플래닝으로 여행 준비 효율을 높입니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 <br><br>
 
-### Choose
-> 앞서 추리한 내용을 기반으로 범인을 지목하는 페이지 입니다.<br>
-> 사용자의 선택에 따라 문장이 달라집니다.<br>
-> 성공 — You got it right!<br>
-> 실패 — Are you serious?
-<br>
-<img align="center" width="1000" alt="" src="">
-<br><br>
 
-### Ending-Credit
-> 사건이 종료된 이후의 페이지로, 플레이 결과와 크레딧 화면을 볼 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="">
-<br><br>
 
-### History
-> 사용자가 플레이 했던 내역들을 자세하게 확인할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="">
-<br><br>
 
-<br>
 
 # 📗 API
 <p align="center">
