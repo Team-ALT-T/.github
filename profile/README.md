@@ -209,56 +209,107 @@
 <br>
 
 
-# 📂 Directory Structure<details>  <summary>Truvel (Monorepo)</summary><pre><code>🗂️Truvel┣ 📂backend┃ ┗ 📂truvel┃   ┣ 📂.github┃   ┃ ┣ 📂ISSUE_TEMPLATE┃   ┃ ┗ 📃pull_request_template.md┃   ┣ 📂src┃   ┃ ┣ 📂main┃   ┃ ┃ ┣ 📂java/alt_t/truvel┃   ┃ ┃ ┃ ┣ 📂auth┃   ┃ ┃ ┃ ┣ 📂daySchedule┃   ┃ ┃ ┃ ┣ 📂editor┃   ┃ ┃ ┃ ┣ 📂location┃   ┃ ┃ ┃ ┣ 📂searchCountryAndCity┃   ┃ ┃ ┃ ┣ 📂travelPlan┃   ┃ ┃ ┃ ┣ 📂config┃   ┃ ┃ ┃ ┣ 📂dummy┃   ┃ ┃ ┃ ┗ 📂exception┃   ┃ ┃ ┗ 📂resources┃   ┃ ┃   ┣ 📃application.yml┃   ┃ ┃   ┗ 📂data/CountriesAndCities.json┃   ┃ ┗ 📂test/java/alt_t/truvel┃   ┃   ┣ 📂auth┃   ┃   ┣ 📂daySchedule┃   ┃   ┣ 📂editor┃   ┃   ┣ 📂location┃   ┃   ┣ 📂travelPlan┃   ┃   ┗ 📂searchCountryAndCity┃   ┣ 📃build.gradle┃   ┣ 📃settings.gradle┃   ┣ 📃docker-compose.yml┃   ┣ 📃Dockerfile┃   ┣ 📃gradlew┃   ┗ 📃gradlew.bat┣ 📂frontend┃ ┣ 📂public┃ ┃ ┗ 📂icons┃ ┣ 📂src┃ ┃ ┣ 📂app┃ ┃ ┃ ┣ 📂auth┃ ┃ ┃ ┣ 📂home┃ ┃ ┃ ┣ 📂my┃ ┃ ┃ ┣ 📂my-trips┃ ┃ ┃ ┣ 📂mytripdetail┃ ┃ ┃ ┣ 📂optimize┃ ┃ ┃ ┣ 📂schedule┃ ┃ ┃ ┣ 📂account┃ ┃ ┃ ┣ 📃layout.tsx┃ ┃ ┃ ┗ 📃page.tsx┃ ┃ ┣ 📂lib┃ ┃ ┃ ┣ 📂api┃ ┃ ┃ ┣ 📂hooks┃ ┃ ┃ ┣ 📃axios.ts┃ ┃ ┃ ┗ 📃StyledComponentsRegistry.tsx┃ ┃ ┣ 📂mocks┃ ┃ ┣ 📂providers┃ ┃ ┣ 📂styles┃ ┃ ┗ 📂test┃ ┣ 📃package.json┃ ┣ 📃next.config.ts┃ ┣ 📃postcss.config.mjs┃ ┗ 📃tsconfig.json┗ 📃README.md</code></pre></details><br># 🧐 How To Start### 1) Clonegit clone <YOUR_REPOSITORY_URL>cd Truvel
+# 📂 Directory Structure
 
-
+<details>
+  <summary>Truvel (Monorepo)</summary>
+<pre>
+<code>
+🗂️Truvel
+┣ 📂backend
+┃ ┗ 📂truvel
+┃   ┣ 📂.github
+┃   ┃ ┣ 📂ISSUE_TEMPLATE
+┃   ┃ ┗ 📃pull_request_template.md
+┃   ┣ 📂src
+┃   ┃ ┣ 📂main
+┃   ┃ ┃ ┣ 📂java/alt_t/truvel
+┃   ┃ ┃ ┃ ┣ 📂auth
+┃   ┃ ┃ ┃ ┣ 📂daySchedule
+┃   ┃ ┃ ┃ ┣ 📂editor
+┃   ┃ ┃ ┃ ┣ 📂location
+┃   ┃ ┃ ┃ ┣ 📂searchCountryAndCity
+┃   ┃ ┃ ┃ ┣ 📂travelPlan
+┃   ┃ ┃ ┃ ┣ 📂config
+┃   ┃ ┃ ┃ ┣ 📂dummy
+┃   ┃ ┃ ┃ ┗ 📂exception
+┃   ┃ ┃ ┗ 📂resources
+┃   ┃ ┃   ┣ 📃application.yml
+┃   ┃ ┃   ┗ 📂data/CountriesAndCities.json
+┃   ┃ ┗ 📂test/java/alt_t/truvel
+┃   ┃   ┣ 📂auth
+┃   ┃   ┣ 📂daySchedule
+┃   ┃   ┣ 📂editor
+┃   ┃   ┣ 📂location
+┃   ┃   ┣ 📂travelPlan
+┃   ┃   ┗ 📂searchCountryAndCity
+┃   ┣ 📃build.gradle
+┃   ┣ 📃settings.gradle
+┃   ┣ 📃docker-compose.yml
+┃   ┣ 📃Dockerfile
+┃   ┣ 📃gradlew
+┃   ┗ 📃gradlew.bat
+┣ 📂frontend
+┃ ┣ 📂public
+┃ ┃ ┗ 📂icons
+┃ ┣ 📂src
+┃ ┃ ┣ 📂app
+┃ ┃ ┃ ┣ 📂auth
+┃ ┃ ┃ ┣ 📂home
+┃ ┃ ┃ ┣ 📂my
+┃ ┃ ┃ ┣ 📂my-trips
+┃ ┃ ┃ ┣ 📂mytripdetail
+┃ ┃ ┃ ┣ 📂optimize
+┃ ┃ ┃ ┣ 📂schedule
+┃ ┃ ┃ ┣ 📂account
+┃ ┃ ┃ ┣ 📃layout.tsx
+┃ ┃ ┃ ┗ 📃page.tsx
+┃ ┃ ┣ 📂lib
+┃ ┃ ┃ ┣ 📂api
+┃ ┃ ┃ ┣ 📂hooks
+┃ ┃ ┃ ┣ 📃axios.ts
+┃ ┃ ┃ ┗ 📃StyledComponentsRegistry.tsx
+┃ ┃ ┣ 📂mocks
+┃ ┃ ┣ 📂providers
+┃ ┃ ┣ 📂styles
+┃ ┃ ┗ 📂test
+┃ ┣ 📃package.json
+┃ ┣ 📃next.config.ts
+┃ ┣ 📃postcss.config.mjs
+┃ ┗ 📃tsconfig.json
+┗ 📃README.md
+</code>
+</pre>
+</details>
+<br>
 
 # 🧐 How To Start
 
-### Backend 
-```
-git clone --recursive https://github.com/2024-Winter-Bootcamp-team-K/AILIBI-Backend.git
-```
-### env setting in the Backend folder
-* Backend/.env
-```
-DB_ENGINE=
+### 1) Clone
+git clone <YOUR_REPOSITORY_URL>
+cd Truvel
+
+### 2) Backend 설정 (backend/truvel/.env)
 DB_NAME=
 DB_USER=
 DB_PASSWORD=
-DB_HOST=
 DB_PORT=
 
-OPENAI_API_KEY=
+# docker-compose에서 사용 (web 컨테이너 내부 DB 연결 주소)
+DB_URL=jdbc:mysql://mysql:3306/${DB_NAME}?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
 
-NAVER_CLIENT_ID=
-NAVER_CLIENT_SECRET=
+REDIS_HOST=redis
+REDIS_PORT=
 
-ELEVENLABS_API_KEY=
-ELEVENLABS_MODEL_ID=
-TASK_1_VOICE_ID=
-TASK_2_VOICE_ID=
-TASK_3_VOICE_ID=
-```
-### Run Docker
-```
-docker-compose -f docker-compose-common.yml -f docker-compose-blue.yml build
-docker-compose -f docker-compose-common.yml -f docker-compose-blue.yml up -d
-docker-compose -f docker-compose-common.yml -f docker-compose-blue.yml down
+GOOGLE_API_KEY=
 
-docker-compose -f docker-compose-common.yml -f docker-compose-green.yml build
-docker-compose -f docker-compose-common.yml -f docker-compose-green.yml up -d
-docker-compose -f docker-compose-common.yml -f docker-compose-green.yml down
-```
-### Frontend
-```
-git clone --recursive https://github.com/2024-Winter-Bootcamp-team-K/AILIBI-Frontend.git
-```
-### Install
-```
-npm run dev
-```
+GMAIL_ADDRESS=
+GOOGLE_APP_PASSWORD=
+
+JWT_SECRET=
 <br>
+
+### 3) Backend 실행
 
 # 👨‍👩‍👧‍👦 Team Members
 
