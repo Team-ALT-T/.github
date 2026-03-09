@@ -39,27 +39,30 @@
 - **친구 초대 기능을 통해 함께 여행 계획을 공유하고 공동으로 일정 구성 가능**
 
 <br>
-# 서비스 화면 🖥️
 
-<img width="334" height="818" alt="image" src="https://github.com/user-attachments/assets/6df6a00c-60a5-4080-8958-3881b41b9752" />
-<img width="334" height="652" alt="image" src="https://github.com/user-attachments/assets/0cc20761-9cdf-4745-956a-bcf4c12b0354" />
-<img width="334" height="755" alt="image" src="https://github.com/user-attachments/assets/97b73f3a-d8bd-4da1-b2cf-f246bbcd6d5d" />
+# 🖥️ Demo
 
 
-## 📗 API
+# 📗 API
 <p align="center">
  <img width="657" height="751" alt="image" src="https://github.com/user-attachments/assets/dcd64352-cd3a-4bf2-81dd-57ece171b748" />
  <img width="650" height="810" alt="image" src="https://github.com/user-attachments/assets/eeb662c9-68ef-4e5c-9406-a26124ebf7ec" />
  <img width="645" height="182" alt="image" src="https://github.com/user-attachments/assets/0b414026-bff9-4a10-a9de-2a03196b18d1" />
 </p>
 
+# 🛠 ️System Architecture <a name="-system-architecture"></a>
+<div align="center">
+  <img align="center" width="1000" src="https://github.com/user-attachments/assets/d78231b8-e1dc-48e2-8974-4bdc3e80142f">
+</div>
+<br><br>
 
-## 🔑 ERD
-<img width="1386" height="845" alt="image" src="https://github.com/user-attachments/assets/828c2242-c91d-47cf-8b4c-e1e5f4feea66" />
+# 🔑 ERD
+<img width="1386" height="845" alt="image" src="https://github.com/user-attachments/assets/62fb0f2d-51b7-48e8-b0fc-3c2a380af4fc" />
 
 
 
-## 💻 Tech Stack
+
+# 💻 Tech Stack
 
 <div align="center">
   
@@ -121,7 +124,7 @@
 </div>
 
 
-## 👨‍👩‍👧‍👦 Team Members
+# 👨‍👩‍👧‍👦 Team Members
 
 
 <table width="1000">
