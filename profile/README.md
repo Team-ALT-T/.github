@@ -6,22 +6,44 @@
 <br>
 </div>
 
-
-
 <h3 align="center">TRUVEL은 지인과 함께하는 여행 계획을 빠르고 간편하게 만들어주는 서비스를 제공합니다.</h3>
 
+
+# 📖 Table of contents
+* [Introduction](#-introduction)
+* [Demo](#-demo)
+* [API](#-api)
+* [System Architecture](#-system-architecture)
+* [ERD](#-erd)
+* [Tech Stack](#-tech-stack)
+* [Directory Structure](#-directory-structure)
+* [How to start](#-how-to-start)
+* [Team Members](https://github.com/Team-ALT-T/.github/blob/main/profile/README.md#%E2%80%8D%E2%80%8D%E2%80%8D-team-members)
+
+<br>
+
+# 📣 Introduction
+### URL
+> 🗝️ [Truvel]
+
+### Medium
+> 🔎 [Truvel Medium](추후 추가 예정) &nbsp;
+
+<br>
+
+- **위치 맞춤 여행 추천 서비스**
+- **True + Travel = Truvel (사용자에게 ‘진짜 맞는 여행’을 찾는 서비스)**
+- **사용자는 추천 여행지를 저장하고 자신만의 여행 계획을 구성**
+- **기록된 여행 계획과 방문 기록을 언제든지 다시 확인 가능**
+- **선택한 여행지들을 지도에서 선으로 연결해 이동 경로와 거리 정보를 시각적으로 제공**
+- **친구 초대 기능을 통해 함께 여행 계획을 공유하고 공동으로 일정 구성 가능**
+
+<br>
 # 서비스 화면 🖥️
 
 <img width="334" height="818" alt="image" src="https://github.com/user-attachments/assets/6df6a00c-60a5-4080-8958-3881b41b9752" />
 <img width="334" height="652" alt="image" src="https://github.com/user-attachments/assets/0cc20761-9cdf-4745-956a-bcf4c12b0354" />
 <img width="334" height="755" alt="image" src="https://github.com/user-attachments/assets/97b73f3a-d8bd-4da1-b2cf-f246bbcd6d5d" />
-
-
-## 📋 Table of Contents
-* [API](#-api)
-* [ERD](#-erd)
-* [Tech Stack](#-tech-stack)
-* [Team Members](https://github.com/Team-ALT-T/.github/blob/main/profile/README.md#%E2%80%8D%E2%80%8D%E2%80%8D-team-members)
 
 
 ## 📗 API
