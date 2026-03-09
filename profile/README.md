@@ -41,7 +41,87 @@
 <br>
 
 # 🖥️ Demo
+### Innit Animation
+> AILIBI에 접속하면 가장 먼저 보이는 화면입니다.
+<br>
+<img align="center" width="1000" alt="Onboarding" src="">
+<br><br>
 
+### Login/Register
+> E-mail 기반 로그인 및 회원가입으로 손쉽게 로그인 할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="">
+<br><br>
+
+### Main
+> 성공적인 로그인 이후 게임 플레이를 위한 메인 페이지로 이동합니다.
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="">
+<br><br>
+
+### Make-Scenario
+> 사용자가 탐정 스토리의 주요 배경과 사건을 설정하는 페이지입니다.<br>
+> 사건의 종류, 시간, 장소를 선택할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="">
+<br><br>
+
+### Loading
+> 사용자 입력을 기반으로 AI의 시나리오 생성을 기다리는 페이지입니다.<br>
+> 평균적으로 약 1분 내외의 시간이 소요되며, 기다림을 달래 줄 2개의 미니게임(슈팅 게임, 스도쿠)이 준비되어 있습니다.
+<br>
+<img align="center" width="1000" alt="" src="">
+<br><br>
+
+### Initial-Statement
+> 용의자들의 초기 진술을 확인할 수 있는 페이지입니다.
+<br>
+<img align="center" width="1000" alt="" src="">
+<br><br>
+
+### Scenario & Evidence
+> 생성된 시나리오와 증거를 탐색할 수 있는 페이지 입니다.<br>
+> 추리 노트를 사용하여, 사용자만의 추리 내용을 작성할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="" src=""><br><br>
+<img align="center" width="1000" alt="" src="">
+<br><br>
+  
+### Suspect
+> 용의자 목록을 확인할 수 있는 페이지입니다.
+<br>
+<img align="center" width="1000" alt="" src="">
+<br><br>
+
+### Interrogation
+> AI와 Websocket을 기반으로 용의자를 심문하는 페이지입니다.<br>
+> STT와 TTS로 보다 몰입도 높은 플레이를 진행할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="" src="">
+<br><br>
+
+### Choose
+> 앞서 추리한 내용을 기반으로 범인을 지목하는 페이지 입니다.<br>
+> 사용자의 선택에 따라 문장이 달라집니다.<br>
+> 성공 — You got it right!<br>
+> 실패 — Are you serious?
+<br>
+<img align="center" width="1000" alt="" src="">
+<br><br>
+
+### Ending-Credit
+> 사건이 종료된 이후의 페이지로, 플레이 결과와 크레딧 화면을 볼 수 있습니다.
+<br>
+<img align="center" width="1000" alt="" src="">
+<br><br>
+
+### History
+> 사용자가 플레이 했던 내역들을 자세하게 확인할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="" src="">
+<br><br>
+
+<br>
 
 # 📗 API
 <p align="center">
