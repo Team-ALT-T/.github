@@ -208,80 +208,76 @@
 </table>
 <br>
 
-
-# 📂 Directory Structure
+## 📂 Directory Structure
 
 <details>
   <summary>Truvel (Monorepo)</summary>
-<pre>
-<code>
-🗂️Truvel
-┣ 📂backend
-┃ ┗ 📂truvel
-┃   ┣ 📂.github
-┃   ┃ ┣ 📂ISSUE_TEMPLATE
-┃   ┃ ┗ 📃pull_request_template.md
-┃   ┣ 📂src
-┃   ┃ ┣ 📂main
-┃   ┃ ┃ ┣ 📂java/alt_t/truvel
-┃   ┃ ┃ ┃ ┣ 📂auth
-┃   ┃ ┃ ┃ ┣ 📂daySchedule
-┃   ┃ ┃ ┃ ┣ 📂editor
-┃   ┃ ┃ ┃ ┣ 📂location
-┃   ┃ ┃ ┃ ┣ 📂searchCountryAndCity
-┃   ┃ ┃ ┃ ┣ 📂travelPlan
-┃   ┃ ┃ ┃ ┣ 📂config
-┃   ┃ ┃ ┃ ┣ 📂dummy
-┃   ┃ ┃ ┃ ┗ 📂exception
-┃   ┃ ┃ ┗ 📂resources
-┃   ┃ ┃   ┣ 📃application.yml
-┃   ┃ ┃   ┗ 📂data/CountriesAndCities.json
-┃   ┃ ┗ 📂test/java/alt_t/truvel
-┃   ┃   ┣ 📂auth
-┃   ┃   ┣ 📂daySchedule
-┃   ┃   ┣ 📂editor
-┃   ┃   ┣ 📂location
-┃   ┃   ┣ 📂travelPlan
-┃   ┃   ┗ 📂searchCountryAndCity
-┃   ┣ 📃build.gradle
-┃   ┣ 📃settings.gradle
-┃   ┣ 📃docker-compose.yml
-┃   ┣ 📃Dockerfile
-┃   ┣ 📃gradlew
-┃   ┗ 📃gradlew.bat
-┣ 📂frontend
-┃ ┣ 📂public
-┃ ┃ ┗ 📂icons
-┃ ┣ 📂src
-┃ ┃ ┣ 📂app
-┃ ┃ ┃ ┣ 📂auth
-┃ ┃ ┃ ┣ 📂home
-┃ ┃ ┃ ┣ 📂my
-┃ ┃ ┃ ┣ 📂my-trips
-┃ ┃ ┃ ┣ 📂mytripdetail
-┃ ┃ ┃ ┣ 📂optimize
-┃ ┃ ┃ ┣ 📂schedule
-┃ ┃ ┃ ┣ 📂account
-┃ ┃ ┃ ┣ 📃layout.tsx
-┃ ┃ ┃ ┗ 📃page.tsx
-┃ ┃ ┣ 📂lib
-┃ ┃ ┃ ┣ 📂api
-┃ ┃ ┃ ┣ 📂hooks
-┃ ┃ ┃ ┣ 📃axios.ts
-┃ ┃ ┃ ┗ 📃StyledComponentsRegistry.tsx
-┃ ┃ ┣ 📂mocks
-┃ ┃ ┣ 📂providers
-┃ ┃ ┣ 📂styles
-┃ ┃ ┗ 📂test
-┃ ┣ 📃package.json
-┃ ┣ 📃next.config.ts
-┃ ┣ 📃postcss.config.mjs
-┃ ┗ 📃tsconfig.json
-┗ 📃README.md
-</code>
-</pre>
-</details>
-<br>
+
+Truvel
+├─ backend/
+│  └─ truvel/
+│     ├─ .github/
+│     │  ├─ ISSUE_TEMPLATE/
+│     │  └─ pull_request_template.md
+│     ├─ src/
+│     │  ├─ main/
+│     │  │  ├─ java/alt_t/truvel/
+│     │  │  │  ├─ auth/
+│     │  │  │  ├─ daySchedule/
+│     │  │  │  ├─ editor/
+│     │  │  │  ├─ location/
+│     │  │  │  ├─ searchCountryAndCity/
+│     │  │  │  ├─ travelPlan/
+│     │  │  │  ├─ config/
+│     │  │  │  ├─ dummy/
+│     │  │  │  └─ exception/
+│     │  │  └─ resources/
+│     │  │     ├─ application.yml
+│     │  │     └─ data/CountriesAndCities.json
+│     │  └─ test/java/alt_t/truvel/
+│     │     ├─ auth/
+│     │     ├─ daySchedule/
+│     │     ├─ editor/
+│     │     ├─ location/
+│     │     ├─ travelPlan/
+│     │     └─ searchCountryAndCity/
+│     ├─ build.gradle
+│     ├─ settings.gradle
+│     ├─ docker-compose.yml
+│     ├─ Dockerfile
+│     ├─ gradlew
+│     └─ gradlew.bat
+├─ frontend/
+│  ├─ public/
+│  │  └─ icons/
+│  ├─ src/
+│  │  ├─ app/
+│  │  │  ├─ auth/
+│  │  │  ├─ home/
+│  │  │  ├─ my/
+│  │  │  ├─ my-trips/
+│  │  │  ├─ mytripdetail/
+│  │  │  ├─ optimize/
+│  │  │  ├─ schedule/
+│  │  │  ├─ account/
+│  │  │  ├─ layout.tsx
+│  │  │  └─ page.tsx
+│  │  ├─ lib/
+│  │  │  ├─ api/
+│  │  │  ├─ hooks/
+│  │  │  ├─ axios.ts
+│  │  │  └─ StyledComponentsRegistry.tsx
+│  │  ├─ mocks/
+│  │  ├─ providers/
+│  │  ├─ styles/
+│  │  └─ test/
+│  ├─ package.json
+│  ├─ next.config.ts
+│  ├─ postcss.config.mjs
+│  └─ tsconfig.json
+└─ README.md
+
+
 
 # 🧐 How To Start
 
