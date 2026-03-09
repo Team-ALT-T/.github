@@ -207,12 +207,14 @@
   </tr>
 </table>
 <br>
+</div>
 
 ## 📂 Directory Structure
 
 <details>
   <summary>Truvel (Monorepo)</summary>
 
+```text
 Truvel
 ├─ backend/
 │  └─ truvel/
@@ -276,16 +278,21 @@ Truvel
 │  ├─ postcss.config.mjs
 │  └─ tsconfig.json
 └─ README.md
+```
+</details>
 
 
 
 # 🧐 How To Start
 
 ### 1) Clone
+```bash
 git clone <YOUR_REPOSITORY_URL>
 cd Truvel
+```
 
 ### 2) Backend 설정 (backend/truvel/.env)
+```env
 DB_NAME=
 DB_USER=
 DB_PASSWORD=
@@ -303,9 +310,47 @@ GMAIL_ADDRESS=
 GOOGLE_APP_PASSWORD=
 
 JWT_SECRET=
+```
 <br>
 
 ### 3) Backend 실행
+#### Docker (권장)
+```bash
+cd backend/truvel
+docker compose up -d --build
+```
+
+#### Docker 종료
+```bash
+docker compose down
+```
+
+#### 로컬 실행 (선택)
+```bash
+cd backend/truvel
+# Windows
+gradlew.bat bootRun
+# macOS / Linux
+./gradlew bootRun
+```
+
+### 4) Frontend 설정 (frontend/.env.local)
+```env
+NEXT_PUBLIC_API_BASE_URL=http://localhost:8080
+NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=
+```
+
+### 5) Frontend 실행
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### 6) 접속
+- Frontend: http://localhost:3000
+- Backend: http://localhost:8080
+
 
 # 👨‍👩‍👧‍👦 Team Members
 
