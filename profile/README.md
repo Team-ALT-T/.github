@@ -1,4 +1,4 @@
-<h1 align="center">Truvel</h1>
+<h1 align="center">✈️ Truvel ✈️</h1>
 <div align="center"> 
 <h3><b> True travel experience tailored to you. </b></h3><br>
 <img width="1503" src="https://github.com/user-attachments/assets/597a6a4b-015c-459b-a0ea-de60ba4dd3ea" alt="대표 이미지">
@@ -6,8 +6,6 @@
 <br>
 </div>
 
-# **TRUVEL** ✈️
-<img width="3616" height="1184" alt="Gemini_Generated_Image_6pejj96pejj96pej" src="https://github.com/user-attachments/assets/597a6a4b-015c-459b-a0ea-de60ba4dd3ea" />
 
 
 <h3 align="center">TRUVEL은 지인과 함께하는 여행 계획을 빠르고 간편하게 만들어주는 서비스를 제공합니다.</h3>
