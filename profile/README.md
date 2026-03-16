@@ -41,72 +41,55 @@
 <br>
 
 # 🖥️ Demo 
-### Intro / Landing
-> Truvel 서비스 소개와 핵심 기능을 확인할 수 있는 첫 화면입니다.<br>
-> 로그인 전 사용자에게 서비스 목적과 사용 흐름을 직관적으로 안내합니다.
-<br>
-<img align="center" width="1000" alt="Onboarding" src="">
-<br><br>
 
-### Login / Register / Email Verify
-> E-mail 기반 회원가입, 로그인, 인증 코드 확인 과정을 통해 계정을 안전하게 생성합니다.<br>
-> 인증 완료 후 자동으로 서비스 이용 가능한 상태로 전환됩니다.
+### Login / Register
+> E-mail 기반 회원가입과 로그인을 통해 서비스를 시작합니다.<br>
+> 인증 흐름을 한 화면 흐름으로 묶어 진입 과정을 직관적으로 보여줍니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="">
-<br><br>
-
-### Home Dashboard
-> 로그인 후 진입하는 메인 대시보드입니다.<br>
-> 내 여행 목록, 추천 여행지, 경로 최적화 기능으로 빠르게 이동할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="Login & Sign up" src="">
+<img align="center" width="1000" alt="Login and Register" src="여기에_로그인+회원가입_GIF_URL">
 <br><br>
 
 ### My Trips (목록/생성)
-> 사용자가 생성한 여행 계획을 카드 형태로 확인할 수 있습니다.<br>
-> 새 여행 생성, 인기 여행지 기반 계획 시작 등 여행 준비의 시작점 역할을 합니다.
+> 사용자가 생성한 여행 계획을 목록으로 확인하고 새 여행을 시작합니다.<br>
+> 여행 준비의 시작점 역할을 하는 핵심 화면입니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="">
+<img align="center" width="1000" alt="My Trips List and Create" src="여기에_my_trips_GIF_URL">
 <br><br>
 
 ### Map 기반 여행지 검색/선택
-> 지도에서 장소를 검색하고 후보지를 비교해 선택할 수 있습니다.<br>
-> 선택된 장소는 이후 경로 최적화와 일정 생성 단계로 연결됩니다.
+> 지도에서 여행지를 검색하고 후보 장소를 선택합니다.<br>
+> 선택한 장소는 이후 경로 단계로 연결됩니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="Map Place Search and Select" src="여기에_지도검색선택_GIF_URL">
 <br><br>
 
-### 경로 최적화 (Route Optimize)
-> 선택한 장소들을 기준으로 이동 동선을 최적화해 추천 경로를 생성합니다.<br>
-> 결과 페이지에서 경로 순서와 지도 시각화를 함께 확인할 수 있습니다.
+### 경로 및 장소 수정, 여행 목록 생성 (Route Optimize)
+> 선택한 장소를 기준으로 최적 경로 연결하고, 필요한 장소를 수정합니다.<br>
+> 최종적으로 여행 목록을 완성하는 과정을 하나의 흐름으로 보여줍니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="Route Optimize and Trip List Finalize" src="여기에_경로최적화+장소수정_통합_GIF_URL">
 <br><br>
 
-### 일정 관리 (Schedule)
-> 최적화된 경로를 일자별 일정으로 정리하고 수정할 수 있습니다.<br>
-> 여행 중 실제 방문 순서를 고려한 계획 관리가 가능합니다.
+### Schedule (날짜 선택)
+> 여행 날짜를 선택하고 일정 생성을 시작합니다.<br>
+> 날짜 기반 플래닝 진입 과정을 보여줍니다.
 <br>
-<img align="center" width="1000" alt="" src=""><br><br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="Schedule Date Selection" src="여기에_schedule_날짜선택_GIF_URL">
 <br><br>
-  
+
 ### 여행 상세 (My Trip Detail)
-> 여행별 상세 정보를 확인하고 일자별 동선을 한눈에 검토할 수 있습니다.<br>
-> 일정 편집 및 여행 계획 품질 점검에 최적화된 화면입니다.  
+> 여행 상세 정보, 동선, 메모를 확인하며 계획을 점검합니다.<br>
+> 여행 단위의 상세 관리 화면입니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="My Trip Detail" src="여기에_trip_detail_GIF_URL">
 <br><br>
 
 ### 일행 초대 (Invite)
-> 여행 계획에 일행을 초대해 함께 일정을 구성할 수 있습니다.<br>
-> 협업 기반 플래닝으로 여행 준비 효율을 높입니다.
+> 일행을 초대해 함께 여행 일정을 구성합니다.<br>
+> 협업 기반 여행 플래닝 기능을 보여줍니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="Invite Collaborators" src="여기에_invite_GIF_URL">
 <br><br>
-
-
-
 
 
 # 📗 API
