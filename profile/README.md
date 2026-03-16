@@ -9,6 +9,7 @@
 <h3 align="center">TRUVEL은 지인과 함께하는 여행 계획을 빠르고 간편하게 만들어주는 서비스를 제공합니다.</h3>
 
 
+
 # 📖 Table of contents
 * [Introduction](#-introduction)
 * [Demo](#-demo)
@@ -45,51 +46,80 @@
 ### Login / Register
 > E-mail 기반 회원가입과 로그인을 통해 서비스를 시작합니다.<br>
 > 인증 흐름을 한 화면 흐름으로 묶어 진입 과정을 직관적으로 보여줍니다.
-<br>
-<img align="center" width="1000" alt="Login and Register" src="">
-<br><br>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/004dd18c-bb9f-4e9b-acea-0976a0548f3d" width="260"/>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/64cec457-4c51-4f6a-bd78-c809c855231f" width="260"/>
+</td>
+</tr>
+</table>
 
 ### My Trips (목록/생성)
 > 새 여행 목록을 생성해 여행 계획을 이어서 확장할 수 있습니다.<br>
 > 하단바를 통해 현재 여행 목록의 지도 화면으로 바로 이동할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="My Trips List and Create" src="여기에_my_trips_GIF_URL">
-<br><br>
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/7214dd19-8361-4ef7-b03f-00259087691d" width="260"/>
+</td>
 
+<td align="center">
+<img src="https://github.com/user-attachments/assets/1acc932c-a35f-4b7a-a9b4-d9605afd780d" width="260"/>
+</td>
+</tr>
+</table>
 ### Schedule (날짜 선택)
 > 여행 날짜를 선택하고 일정 생성을 시작합니다.<br>
 > 날짜 기반 플래닝 진입 과정을 보여줍니다.
 <br>
-<img align="center" width="1000" alt="Schedule Date Selection" src="여기에_schedule_날짜선택_GIF_URL">
+<img align="center" width="260" alt="Schedule Date Selection" src="https://github.com/user-attachments/assets/02e03b21-47fc-4601-adbb-7e5b3409cf70">
 <br><br>
+
 
 ### Map 기반 여행지 검색/선택
 > 지도에서 여행지를 검색하고 후보 장소를 선택합니다.<br>
 > 선택한 장소는 이후 경로 단계로 연결됩니다.
 <br>
-<img align="center" width="1000" alt="Map Place Search and Select" src="여기에_지도검색선택_GIF_URL">
+<img align="center" width="260" alt="Map Place Search and Select" src="https://github.com/user-attachments/assets/a2baddfe-c1de-4aa7-90f4-3053f3d0d577">
 <br><br>
+
 
 ### 경로 및 장소 수정, 여행 목록 생성 (Route Optimize)
 > 선택한 장소를 기준으로 최적 경로 연결하고, 필요한 장소를 수정합니다.<br>
 > 최종적으로 여행 목록을 완성하는 과정을 하나의 흐름으로 보여줍니다.
-<br>
-<img align="center" width="1000" alt="Route Optimize and Trip List Finalize" src="여기에_경로최적화+장소수정_통합_GIF_URL">
-<br><br>
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/5f393402-43ca-4466-9e51-ef52607f9bef" width="260"/>
+</td>
+
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/f85893d1-ee22-4b29-ab51-fd792a8d5647" width="260"/>
+</td>
+</tr>
+
+
 
 ### 여행 상세 (My Trip Detail)
 > 여행 상세 정보, 동선, 메모를 확인하며 계획을 점검합니다.<br>
 > 여행 단위의 상세 관리 화면입니다.
 <br>
-<img align="center" width="1000" alt="My Trip Detail" src="여기에_trip_detail_GIF_URL">
+<img align="center" width="260" alt="My Trip Detail" src="https://github.com/user-attachments/assets/2f5cdba6-b7b9-4876-86e2-ef352c9eb5d9">
 <br><br>
 
 ### 일행 초대 (Invite)
 > 일행을 초대해 함께 여행 일정을 구성합니다.<br>
 > 협업 기반 여행 플래닝 기능을 보여줍니다.
 <br>
-<img align="center" width="1000" alt="Invite Collaborators" src="여기에_invite_GIF_URL">
+<img align="center" width="260" alt="Invite Collaborators" src="https://github.com/user-attachments/assets/832b5264-50bd-4461-81f1-8fbb935d42c0">
 <br><br>
+
 
 
 # 📗 API
