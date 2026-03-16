@@ -98,19 +98,20 @@
 ### 경로 및 장소 수정, 여행 목록 생성 (Route Optimize)
 > 선택한 장소를 기준으로 최적 경로 연결하고, 필요한 장소를 수정합니다.<br>
 > 최종적으로 여행 목록을 완성하는 과정을 하나의 흐름으로 보여줍니다.
+<br>
+
 <table>
 <tr>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/3e32116f-3b3c-4a1a-91b0-70dbd13efcfa" width="260"/>
 </td>
-
-
-
 <td align="center">
 <img src="https://github.com/user-attachments/assets/ed4e1847-5602-46de-aa9b-d7009435babe" width="260"/>
 </td>
 </tr>
+</table>
 
+<br><br>
 
 
 
