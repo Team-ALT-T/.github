@@ -27,7 +27,7 @@
 > 🗝️ [Truvel]
 
 ### Medium
-> 🔎 [Truvel Medium](추후 추가 예정) &nbsp;
+> 🔎 [Truvel Medium](https://medium.com/@kimseungmin0520/truvel-true-travel-experience-tailored-to-you-99259a1d6a4d?postPublishedType=repub) &nbsp;
 
 <br>
 
@@ -49,16 +49,18 @@
 <img align="center" width="1000" alt="Login and Register" src="">
 <br><br>
 
-
-
-
-
-
 ### My Trips (목록/생성)
-> 사용자가 생성한 여행 계획을 목록으로 확인하고 새 여행을 시작합니다.<br>
-> 여행 준비의 시작점 역할을 하는 핵심 화면입니다.
+> 새 여행 목록을 생성해 여행 계획을 이어서 확장할 수 있습니다.<br>
+> 하단바를 통해 현재 여행 목록의 지도 화면으로 바로 이동할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="My Trips List and Create" src="여기에_my_trips_GIF_URL">
+<br><br>
+
+### Schedule (날짜 선택)
+> 여행 날짜를 선택하고 일정 생성을 시작합니다.<br>
+> 날짜 기반 플래닝 진입 과정을 보여줍니다.
+<br>
+<img align="center" width="1000" alt="Schedule Date Selection" src="여기에_schedule_날짜선택_GIF_URL">
 <br><br>
 
 ### Map 기반 여행지 검색/선택
@@ -73,13 +75,6 @@
 > 최종적으로 여행 목록을 완성하는 과정을 하나의 흐름으로 보여줍니다.
 <br>
 <img align="center" width="1000" alt="Route Optimize and Trip List Finalize" src="여기에_경로최적화+장소수정_통합_GIF_URL">
-<br><br>
-
-### Schedule (날짜 선택)
-> 여행 날짜를 선택하고 일정 생성을 시작합니다.<br>
-> 날짜 기반 플래닝 진입 과정을 보여줍니다.
-<br>
-<img align="center" width="1000" alt="Schedule Date Selection" src="여기에_schedule_날짜선택_GIF_URL">
 <br><br>
 
 ### 여행 상세 (My Trip Detail)
