@@ -46,8 +46,13 @@
 > E-mail 기반 회원가입과 로그인을 통해 서비스를 시작합니다.<br>
 > 인증 흐름을 한 화면 흐름으로 묶어 진입 과정을 직관적으로 보여줍니다.
 <br>
-<img align="center" width="1000" alt="Login and Register" src="여기에_로그인+회원가입_GIF_URL">
+<img align="center" width="1000" alt="Login and Register" src="">
 <br><br>
+
+
+
+
+
 
 ### My Trips (목록/생성)
 > 사용자가 생성한 여행 계획을 목록으로 확인하고 새 여행을 시작합니다.<br>
