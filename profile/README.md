@@ -58,10 +58,13 @@
 </td>
 </tr>
 </table>
+<br><br>
+
 
 ### My Trips (목록/생성)
 > 새 여행 목록을 생성해 여행 계획을 이어서 확장할 수 있습니다.<br>
 > 하단바를 통해 현재 여행 목록의 지도 화면으로 바로 이동할 수 있습니다.
+<br>
 <table>
 <tr>
 <td align="center">
@@ -73,12 +76,9 @@
 </td>
 </tr>
 </table>
-### Schedule (날짜 선택)
-> 여행 날짜를 선택하고 일정 생성을 시작합니다.<br>
-> 날짜 기반 플래닝 진입 과정을 보여줍니다.
-<br>
-<img align="center" width="260" alt="Schedule Date Selection" src="https://github.com/user-attachments/assets/02e03b21-47fc-4601-adbb-7e5b3409cf70">
 <br><br>
+
+
 
 
 ### Map 기반 여행지 검색/선택
@@ -88,6 +88,12 @@
 <img align="center" width="260" alt="Map Place Search and Select" src="https://github.com/user-attachments/assets/a2baddfe-c1de-4aa7-90f4-3053f3d0d577">
 <br><br>
 
+### Schedule (날짜 선택)
+> 여행 날짜를 선택하고 일정 생성을 시작합니다.<br>
+> 날짜 기반 플래닝 진입 과정을 보여줍니다.
+<br>
+<img align="center" width="260" alt="Schedule Date Selection" src="https://github.com/user-attachments/assets/02e03b21-47fc-4601-adbb-7e5b3409cf70">
+<br><br>
 
 ### 경로 및 장소 수정, 여행 목록 생성 (Route Optimize)
 > 선택한 장소를 기준으로 최적 경로 연결하고, 필요한 장소를 수정합니다.<br>
@@ -95,14 +101,16 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/5f393402-43ca-4466-9e51-ef52607f9bef" width="260"/>
+<img src="https://github.com/user-attachments/assets/3e32116f-3b3c-4a1a-91b0-70dbd13efcfa" width="260"/>
 </td>
+
 
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/f85893d1-ee22-4b29-ab51-fd792a8d5647" width="260"/>
+<img src="https://github.com/user-attachments/assets/ed4e1847-5602-46de-aa9b-d7009435babe" width="260"/>
 </td>
 </tr>
+
 
 
 
